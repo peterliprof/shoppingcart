@@ -4,26 +4,21 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/shoppingCart.png" width="300"/>
-    </td>
-    <td width="50%">
-       <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/addThree.png" width="300"/>
-    </td>
+      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/shoppingCart.png" width="600"/>
+  
+  <tr>
+       <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/addThree.png" width="600"/>
+   </tr>
+
+   <tr>
+      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/addToCart.png"  width="600"/>
     </tr>
-    <tr>
-    <td width="50%">
-      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/addToCart.png"  width="300"/>
-    </td>
-     <td width="50%">
-      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/soldOut.png" width="300"/>
-    </td>
-  </tr>
+     <tr>
+      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/soldOut.png" width="600"/>
+   </tr>
 
   <tr>
-       <td width="50%">
-       <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/typeEmail.png" width="300"/>
-    </td>
+        <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/typeEmail.png" width="600"/>
    </tr>
 </table>
 
