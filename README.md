@@ -12,7 +12,7 @@
    </tr>
 
    <tr>
-      <img src="/cypress/screenshots/shoppingcart/hoppingcart.spec.js/addToCart.png"  width="800"/>
+      <img src="/cypress/screenshots/shoppingcart/shoppingcart.spec.js/addToCart.png"  width="800"/>
     </tr>
 
    <tr>
